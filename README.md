@@ -6,5 +6,5 @@ This is for testing.
 ## Version
 
 ```yaml
-version: v0.0.1
+version: v0.1.0
 ```
